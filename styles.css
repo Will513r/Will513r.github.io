@@ -4,7 +4,7 @@
   }
 }
 #welcome-section{
-  background: linear-gradient(blue, orange);
+  background: linear-gradient(#344D67, #6ECCAF,);
   font-family: cursive;
   text-align: center;
   
@@ -14,7 +14,7 @@
 }
 
 .project-section{
-  background: linear-gradient(orange, red);
+  background: linear-gradient(#6ECCAF, #ADE792);
   font-family: cursive;
   text-align: center;
   
@@ -25,7 +25,7 @@
 }
 
 .contact-section{
-  background: linear-gradient(red,green);
+  background: linear-gradient(#ADE792,#F3ECB0);
   font-family: cursive;
   text-align: center;
   width: 100vw;
