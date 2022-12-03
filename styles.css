@@ -3,8 +3,12 @@
     padding: 1rem 3rem;
   }
 }
+html {
+  background: linear-gradient(#344D67, aqua, #ADE792);
+
+}
 #welcome-section{
-  background: linear-gradient(#344D67, #6ECCAF,);
+  
   font-family: cursive;
   text-align: center;
   
@@ -14,7 +18,7 @@
 }
 
 .project-section{
-  background: linear-gradient(#6ECCAF, #ADE792);
+  
   font-family: cursive;
   text-align: center;
   
@@ -25,7 +29,7 @@
 }
 
 .contact-section{
-  background: linear-gradient(#ADE792,#F3ECB0);
+  
   font-family: cursive;
   text-align: center;
   width: 100vw;
