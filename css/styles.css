@@ -20,9 +20,16 @@ h1{
     font-size: 500%;
     
 }
+.img{
+    width: 20%;
+    border-radius: 50%;
+    margin: 100px auto 100px auto;
+    position: relative;
+}
 .top-container{
     position: relative; 
-    padding-top: 100px;  
+    padding-top: 100px;
+    margin: 100px auto 100px auto;
 }
 
 .pro{
