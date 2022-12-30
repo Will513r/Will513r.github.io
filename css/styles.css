@@ -49,9 +49,9 @@ h1 {
   margin: 100px auto 100px auto;
 }
 .profile-pic {
-  width: 15%;
+  width: 10%;
   border-radius: 50%;
-  rotate: 50deg;
+  
   position: relative;
 }
 .relationship-img {
