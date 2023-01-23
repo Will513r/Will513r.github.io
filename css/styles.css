@@ -126,3 +126,14 @@ h1 {
 .btn .btn-footer{
   font-size: 5rem;
 }
+
+.profile {
+  /* font-size: 14px; */
+  transition-property: font-size;
+  transition-duration: 3s;
+}
+
+.profile:hover {
+font-size: 20px;
+
+}
