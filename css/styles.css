@@ -58,6 +58,16 @@ h1 {
   
   position: relative;
 }
+
+.trick {
+  margin-bottom: 10rem;
+  transition-property: margin-right;
+}
+
+.trick:hover {
+margin-right: 20rem;
+}
+
 .relationship-img {
   border-radius: 50%;
   width: 30%;
@@ -73,7 +83,7 @@ h1 {
 .projects{
   margin: 20px 20px 40px;
   position: relative;
-  width: 15%%;
+  width: 15%;
   height: 15%;
 }
 .project-img{
@@ -109,6 +119,7 @@ h1 {
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  
 }
 
 .btn:hover {
@@ -119,6 +130,8 @@ h1 {
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+  
+   
 }
 .contact-me {
   margin: 100px auto 100px auto;
@@ -127,13 +140,13 @@ h1 {
   font-size: 5rem;
 }
 
-.profile {
+p {
   /* font-size: 14px; */
   transition-property: font-size;
   transition-duration: 3s;
 }
 
-.profile:hover {
-font-size: 20px;
+p:hover {
+font-size: 17px;
 
 }
