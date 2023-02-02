@@ -28,6 +28,10 @@ h1 {
   padding-top: 100px;
   margin: 100px auto 100px auto;
 }
+
+.middle-container{
+  margin: 9rem;
+}
 .container{
   position: relative;
   padding-top: 100px;
