@@ -42,17 +42,11 @@ h1 {
   font-family: cursive;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
+/* .cert-pic{
+  height: 20rem;
+  width: 20rem;
+  margin-right: 20rem;
+} */
 .profile {
   margin: 100px auto 100px auto;
 }
@@ -69,7 +63,7 @@ h1 {
 }
 
 .trick:hover {
-margin-right: 20rem;
+margin-right: 35rem;
 }
 
 .relationship-img {
