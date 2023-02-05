@@ -43,9 +43,8 @@ h1 {
 }
 
 /* .cert-pic{
-  height: 20rem;
-  width: 20rem;
-  margin-right: 20rem;
+  margin: 100px auto 100px auto;
+  padding-bottom: 30px;
 } */
 .profile {
   margin: 100px auto 100px auto;
@@ -139,12 +138,13 @@ margin-right: 35rem;
 }
 
 p {
-  /* font-size: 14px; */
+  font-size: 14px;
   transition-property: font-size;
   transition-duration: 3s;
-}
+} 
 
 p:hover {
 font-size: 17px;
-
+animation-timing-function: linear;
 }
+
