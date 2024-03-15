@@ -1,0 +1,8 @@
+@import "./node_modules/nes.css/css/nes.css";
+
+img {
+  height: 100px;
+}
+body{
+  background-color: rgb(182, 186, 186);
+}
